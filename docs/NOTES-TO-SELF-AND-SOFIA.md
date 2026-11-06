@@ -16,3 +16,7 @@ November 5, 2026 — CHW Toolset project notes.
 7. **Tutorials.** Create a CHW Toolset video channel; user will create tutorials and demonstrations.
 
 These are exploratory notes, not committed release features. Prioritize loading and testing the Photoshop UXP alpha first.
+
+## Business model — discuss later
+
+8. **Could Hair Studio also be freemium?** Consider keeping a genuinely useful open-source core while optionally charging for selected advanced features or services. Review implications of the existing GPL-3.0 license, third-party contributions, code distribution, licensing boundaries, and community trust before choosing any model. **No decision yet**; revisit together after the first Photoshop test.
