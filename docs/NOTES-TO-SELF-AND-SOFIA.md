@@ -23,6 +23,6 @@ These are exploratory notes, not committed release features. Prioritize loading 
 
 ## Additional considerations for the paid-model discussion
 
-9. **Backward compatibility.** Define how existing presets, saved settings, projects, and free-tier workflows continue to work across versions and possible paid-tier changes. Avoid breaking users' existing work.
+9. **Backward compatibility with older Adobe applications.** Research the minimum supported versions of Adobe Photoshop and Adobe Illustrator, especially UXP/API availability, differences between older and current releases, and what features can gracefully degrade. Evaluate version-specific compatibility and test matrices before promising support. This is primarily about older Photoshop/Illustrator versions, not old presets or saved settings.
 10. **Bug reporting and support.** Plan a simple in-plugin bug-report path, GitHub Issues triage, reproducible diagnostics, and clear expectations for support across free and paid tiers. Do not treat essential bug fixes as premium-only.
 11. **Clone apps are a wildcard.** Note potential clones/forks, but do not make them a central factor in the initial business-model decision. Revisit only if they become relevant.
